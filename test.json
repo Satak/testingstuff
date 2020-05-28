@@ -1,4 +1,4 @@
 {
-    "name":  "Something New 83836057",
-    "date":  "torstai 28. toukokuuta 2020 22.10.41"
+    "name":  "Something New $(Get-Random)",
+    "date":  "torstai 28. toukokuuta 2020 22.11.50"
 }
